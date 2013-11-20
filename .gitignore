@@ -1,0 +1,11 @@
+# Compiled source #
+###################
+*.class
+*.out
+*.o
+
+# Images #
+##########
+*.jpg
+*.png
+*.gif
